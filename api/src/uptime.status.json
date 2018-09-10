@@ -1,0 +1,6 @@
+{
+    "name" : "String",
+    "status" : "up/degraded/down",
+    "timestamp" : "timestamp",
+    "message" : "string"
+}
